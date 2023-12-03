@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "IDとパスワードを入力してください"
+AuthUserFile /Applications/MAMP/htdocs/_workspace/PHP-Project/php_php-to-Laravel-try-serverside-thoroughly/mainte/.htpasswd
+require valid-user
